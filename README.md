@@ -15,4 +15,4 @@ https://agrove21.github.io/module-one-challenge/
 
 
 ## Screenshot
-<img src="assets\images\agrove21.github.io_module-one-challenge_.png" width="800px">
+<img src="assets\images\agrove21.github.io_module-one-challenge_ - Copy.png" width="800px">
